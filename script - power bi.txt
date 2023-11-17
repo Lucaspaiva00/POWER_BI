@@ -1,29 +1,34 @@
 ----------------------------------------------------------------------------------------------------------------
-----------------------------------FUNÇÕES UTILIZADAS NO CURSO DE POEWR BI---------------------------------------
+----------------------------------FUNÃ‡Ã•ES UTILIZADAS NO CURSO DE POEWR BI---------------------------------------
 ----------------------------------------------------------------------------------------------------------------
 
-1ªAULA
+1ÂªAULA
 1-SUM
 2- MAX E MIN
-3- Average (Média)
+3- Average (MÃ©dia)
 
-2ªAULA
+2ÂªAULA
 2- RELATED
 
-3ªAULA
+3ÂªAULA
 3- DATE DIFF
 
-4ªAULA
+4ÂªAULA
 4- Passos para MESCLAR COLUNAS
 1- Transformar dados;
 2- Acrescentar Consultas;
-3- 1ªopção
+3- 1ÂªopÃ§Ã£o
 4- Tres ou mais;
 4.1- Adicionar uma por uma.
 
-Ainda na 4ªAula, outra forma de se fazer o Exercício é abrindo os arquivos como pasta no Power BI.
+Ainda na 4ÂªAula, outra forma de se fazer o ExercÃ­cio Ã© abrindo os arquivos como pasta no Power BI.
 
-5ªAula
+ExercÃ­cio com JSON, utilizar as funÃ§Ãµes:
++Count;
+
++CountRows;
+
+5ÂªAula
 
 
-Obs: Exercícios referentes as aulas que o Prof. Wellington montou.
+Obs: ExercÃ­cios referentes as aulas que o Prof. Wellington montou.
