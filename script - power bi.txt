@@ -31,4 +31,25 @@ Exercício com JSON, utilizar as funções:
 5ªAula
 
 
+
+EXPLICAÇÃO SOBRE CADA FUNÇÃO UTILIZADA:
+
+1- SUM - É responsável por fazer a soma em somente uma única coluna da tabela designada.
+
+2- MAX E MIN - (Max retorna o valor mais alto ou a data mais mais recente.) (Min calcula o menor valor da coluna).
+
+3- Average - É utilizado quando queremos calcular a média de valores em uma coluna ou expressão.
+
+4- Related - Nos permite criar relações entre várias tabelas, com fontes de dados diferentes ou similares.
+
+5- DateDiff - Retorna a diferença entre dois valores de DATA/HORA.
+
+6- Count - Conta o número de itens inclusos que correspondem a um filtro opcional.
+
+7- CountRows - Conta o número de linhas de uma tabela.
+
+8- Calculate - serve para calcular dados baseados em um determinado critério.
+
+
+
 Obs: Exercícios referentes as aulas que o Prof. Wellington montou.
