@@ -1,0 +1,6 @@
+1- Boas práticas de utilizar os dashboards, sendo modelos ja criados ou criando 
+novos modelos, pelo paint por exemplo.
+2- Utilizar o paint para criar o dashboard de vendas, para depois reproduzir 
+realmente no PW
+
+numero de telefone da turma
