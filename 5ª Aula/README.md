@@ -58,7 +58,7 @@ Os Indicadores permitem uma apresentação dos seus dados de forma organizada, c
 | - finalmente as **OSs abertas pelo setor de Administração**                                                                  |
 | ![DashBoard oss](./indicadores.png)                                                                                                  |
 | Entregas:                                                            |
-| -------------------------------------------------------------------- |
+| |
 | Apresente ao professor os dois arquivos com as análises solicitadas. |
 
 # Publicar
