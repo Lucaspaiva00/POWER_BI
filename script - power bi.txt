@@ -64,7 +64,7 @@ Ainda na 4ªAula, outra forma de se fazer o Exercício é abrindo os arquivos co
 ++Calculate;
 ++DateDIFF;
 ++SUM;
-
+++SUMX;
 ---------DENTRO DO ESCOPO DA 5ªAULA-------
 1- Como primeiro Exercício, iremos trabalhar com dados não estruturados, em txt, portando, deve ser baixado os arquivos da pasta "naoestruturados", dentro dessa pasta, tem duas SUBPASTAS, baixe todos os arquivos que contém nelas.
 2- Faça as davidas tratativas, por exexmplo, (GASTOS.TXT), tem somente uma coluna, e devemos separar em 3 colunas, sendo = ID_GASTO | COD_PAIS | COD_SETOR|
