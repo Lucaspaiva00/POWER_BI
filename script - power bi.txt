@@ -12,13 +12,33 @@ Dados não estruturados
 Nem sempre os dados seguem o padrão CSV, eles podem estar semiestruturados em JSON ou XML ou não estruturados TXT
 
 
-1ªAULA
-1-SUM
-2- MAX E MIN
-3- Average (Média)
+1ªAULA (4 hotas)
 
-2ªAULA
-2- RELATED
+---------FORA DO ESCOPO DA AULA--------
+1- Apresentação do Julio (40 minutos).
+2- Conhecer os Alunos separadamente.(30 minutos)
+
+---------DENTRO DO ESCOPO DA 1ªAULA-------
+1- Apresentar o que seria o Power BI e para que ele serve.
+2- Apresentar como fazer o DOWNLOAD da ferramente no Microsoft Story.
+3- Apresentar por dentro da ferramenta, os detalhes.
+4- Apresentar os variados tipos de graficos.
+
+---------DENTRO DO ESCOPO DA 1ªAULA-------
+0- Apresentar o escopo do curso (O QUE IREMOS VER NO DECORRER DAS 5 AULAS).
+0.1- Apresentar o que seriam dados NÃO ESTRUTURADOS, SEMI ESTRUTURADOS E ESTRUTURADOS.
+1- Exportando a planilha BASE VENDAS.XLSX e fazendo a tratativa dos dados.
+
+---------DENTRO DO ESCOPO DA 1ªAULA-------
+0- Apresentando as seguintes funções DAX:
+1-SUM (SOMA, RESPONSÁVEL POR FAZER A SOMA DE UMA ÚNICA COLUNA).
+2- MAX E MIN (CALCULA O VALOR MÁXIMO E VALOR MÍNIMO DENTRO DE UMA COLUNA)
+3- Average (Média) (CALCULA A MÉDIA DOS VALORES DENTRO DE UMA COLUNA)
+
+---------DENTRO DO ESCOPO DA 2ªAULA-------
+1- Utilizando o paint para construir um DASHBOARD antes de utilizar o Software.
+2- Função DAX a ser utilizada RELATED (PARA RELACIONAR AS PLANILHAS DE CONCESSIONARIA.CSV E VENDA_CARROS.XLSX).
+3- Fazer a tratativa de duas planilhas diferentes, uma ESTRUTURADA e outra SEMI-ESTRUTURADA.
 
 3ªAULA
 3- DATE DIFF
