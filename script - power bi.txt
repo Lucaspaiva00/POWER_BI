@@ -40,10 +40,13 @@ Nem sempre os dados seguem o padrão CSV, eles podem estar semiestruturados em J
 2- Função DAX a ser utilizada RELATED (PARA RELACIONAR AS PLANILHAS DE CONCESSIONARIA.CSV E VENDA_CARROS.XLSX).
 3- Fazer a tratativa de duas planilhas diferentes, uma ESTRUTURADA e outra SEMI-ESTRUTURADA.
 
-3ªAULA
-3- DATE DIFF
+---------DENTRO DO ESCOPO DA 3ªAULA-------
+1- Explicando o conceito de CHAVE PRIMÁRIA, para que realizemos os exercícios que necessitam que seja feita uma relação entre as tabelas.
+1.1 - Um por exemplo de CHAVE PRIMÉRIA é: CLIENTES E NÚMERO DE TELEFONE, (Pode existir N numeros de telefones cadastrado em um cliente (CPF) mas somente 1 CPF para aquele telefone).
+2- Utilizando a função DAX, DATE DIFF ('TABELA'['COLUNA'],'TABELA'['COLUNA'], DAY(ou outro)).
+3- Baixar os documentos da pasta baitacaodelivery, fazer as tratativas e finalizar os exercícios.
 
-4ªAULA
+---------DENTRO DO ESCOPO DA 4ªAULA-------
 4- Passos para MESCLAR COLUNAS
 1- Transformar dados;
 2- Acrescentar Consultas;
@@ -53,11 +56,16 @@ Nem sempre os dados seguem o padrão CSV, eles podem estar semiestruturados em J
 
 Ainda na 4ªAula, outra forma de se fazer o Exercício é abrindo os arquivos como pasta no Power BI.
 
-Exercício com JSON, utilizar as funções:
-+Count;
+*ATIVIDADE 2
+1- Utilizando dados SEMI-ESTRUTURADOS, iremos realizar um Exercício com JSON, utilizar as funções:
 
-+CountRows;
+++Count;
+++CountRows;
+++Calculate;
+++DateDIFF;
+++SUM;
 
+---------DENTRO DO ESCOPO DA 5ªAULA-------
 5ªAula
 
 
