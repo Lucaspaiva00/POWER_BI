@@ -41,7 +41,7 @@ Nem sempre os dados seguem o padrão CSV, eles podem estar semiestruturados em J
 3- Fazer a tratativa de duas planilhas diferentes, uma ESTRUTURADA e outra SEMI-ESTRUTURADA.
 
 ---------DENTRO DO ESCOPO DA 3ªAULA-------
-1- Explicando o conceito de CHAVE PRIMÁRIA, para que realizemos os exercícios que necessitam que seja feita uma relação entre as tabelas.
+1- Explicando o conceito de CHAVE PRIMÁRIA, para que realizemos os exercícios que necessitam que seja feita uma relação entre as tabelas(EXPLICAR PARA SEMPRE FAZER UMA RELAÇÃO POR VEZ, PARA NÃO CORRER O RISCO DE SE PERDER).
 1.1 - Um por exemplo de CHAVE PRIMÉRIA é: CLIENTES E NÚMERO DE TELEFONE, (Pode existir N numeros de telefones cadastrado em um cliente (CPF) mas somente 1 CPF para aquele telefone).
 2- Utilizando a função DAX, DATE DIFF ('TABELA'['COLUNA'],'TABELA'['COLUNA'], DAY(ou outro)).
 3- Baixar os documentos da pasta baitacaodelivery, fazer as tratativas e finalizar os exercícios.
@@ -66,11 +66,17 @@ Ainda na 4ªAula, outra forma de se fazer o Exercício é abrindo os arquivos co
 ++SUM;
 
 ---------DENTRO DO ESCOPO DA 5ªAULA-------
-5ªAula
+1- Como primeiro Exercício, iremos trabalhar com dados não estruturados, em txt, portando, deve ser baixado os arquivos da pasta "naoestruturados", dentro dessa pasta, tem duas SUBPASTAS, baixe todos os arquivos que contém nelas.
+2- Faça as davidas tratativas, por exexmplo, (GASTOS.TXT), tem somente uma coluna, e devemos separar em 3 colunas, sendo = ID_GASTO | COD_PAIS | COD_SETOR|
+3- As colunas devem estar formatadas em suas devidas configurações, Data=data e dinheiro=decimal, inteiro=inteiro.
+4- Após essa tratativa, faça as relações necessairas entre as tabelas, por exemplo "cod_setor" localizado em gastos, com o ID de setores.txt.
+
+*SEGUNDO E ÚLTIMO EXERCÍCIO, UTILIZANDO DADOS SEMI-ESTRUTURADOS = JSON.
+1- Faça a transformação dos dados, confira se todos estão OK.
+2- Faça as relações entre as tabelas, faça uma por vez para não se confundir.
 
 
-
-EXPLICAÇÃO SOBRE CADA FUNÇÃO UTILIZADA:
+---------EXPLICAÇÃO SOBRE CADA FUNÇÃO UTILIZADA:---------
 
 1- SUM - É responsável por fazer a soma em somente uma única coluna da tabela designada.
 
@@ -89,7 +95,3 @@ EXPLICAÇÃO SOBRE CADA FUNÇÃO UTILIZADA:
 8- Calculate - serve para calcular dados baseados em um determinado critério.
 
 9- SUMX - Realiza o calculo com mais de uma coluna, diferente do SUM que realiza o calculo de somente uma única coluna.
-
-
-
-Obs: Exercícios referentes as aulas que o Prof. Wellington montou.
