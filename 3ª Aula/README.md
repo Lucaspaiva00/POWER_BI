@@ -36,7 +36,7 @@
 |Desafio: 01|
 |-|
 |Faça uma análise de dados da planilha online com dados de uma mercearia  https://1drv.ms/x/s!AiDjuTwZCwoIglankFeV27w6OVbU?e=dZGdmE|
-|A) Faça download da planilha<br>B) Abra o PowerBI e importe os dados<br>C) Transforme os dados numéricos<br>D) Acrescente uma coluna subtotal na tabela de Pedidos<br>E) Crie um DashBoard com pelo menos três gráficos, respondendo:<br>- Quais produtos mais ou menos pedidos<br>- Preço médio dos produtos<br>- Valor total dos pedidos<br>- Caso possua um e-mail corporativo, adicione um novo visual: com imagens.|
+|A) Faça download da planilha<br>B) Abra o PowerBI e importe os dados<br>C) Transforme os dados numéricos<br>D) Acrescente uma coluna subtotal na tabela de Pedidos<br>E) Crie um DashBoard com pelo menos três gráficos, respondendo:<br>- Quais produtos mais ou menos pedidos<br>- Preço médio dos produtos<br>- Valor total dos pedidos|
 
 |Entregas|
 |-|
