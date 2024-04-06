@@ -51,12 +51,12 @@ Os Indicadores permitem uma apresentação dos seus dados de forma organizada, c
 | Faça os relacionamento de tabelas                                                                                            |
 | E com Power Pivot descubra o tempo de atendimento em decimal e em dias                                                       |
 | Faça uma análise onde possa ver as OS por executor, por colaborador e tempo médio de solução, semelhante ao modelo a seguir: |
-| ![DashBoard oss](./2023-11-21.png)                                                                                                  |
+| ![DashBoard oss](./img01.png)                                                                                                  |
 | Crie outra **Página no Dash** que mostrem:                                                                                            |
 | - as **OSs** atendidas pelo funcionário **Yago**                                                                             |
 | - depois pelo funcionário **Douglas**                                                                                        |
 | - finalmente as **OSs abertas pelo setor de Administração**                                                                  |
-| ![DashBoard oss](./indicadores.png)                                                                                                  |
+| ![DashBoard oss](./img02.png)                                                                                                  |
 | Entregas:                                                            |
 | |
 | Apresente ao professor os dois arquivos com as análises solicitadas. |
