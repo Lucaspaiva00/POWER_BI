@@ -1,4 +1,5 @@
 # Aula 02 - DashBoard
+Link para a aula:
 
 - Atividades práticas, com importação de dados de diversas fontes.
 - Tratamento dos dados na importação
