@@ -1,5 +1,5 @@
 # Aula01 - Introdução
-- Link para a aula: https://meet.google.com/dfq-hssq-yfq
+- Link para a aula: https://meet.google.com/wpn-xbjc-rcx
 ## O que é BI (Business Inteligence)?
 Business Intelligence (BI) ou em português, Inteligência de Negócios, é um termo abrangente destinado a cobrir todas as atividades necessárias para que uma empresa transforme dados brutos 
 em conhecimento acionável. Em outras palavras, são esforços da empresa para entender o que sabe e o que não sabe de sua própria existência e operações. O objetivo final é ser capaz de aumentar os 
