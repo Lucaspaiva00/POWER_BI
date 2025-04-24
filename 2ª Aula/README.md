@@ -1,13 +1,9 @@
-# Aula02 - DashBoard
+# Aula 02 - DashBoard
 
 - Atividades práticas, com importação de dados de diversas fontes.
 - Tratamento dos dados na importação
 - Criação de Dashboards (Paineis de controle - intereção -visualização de dados)
-- Uma boa prática (Desenhar o painel de controle antes de iniciar)
-    - podemos utilizar o Paint ou outra ferramenta para desenhar.
-
-## Desenvolvimento do esboço (Layout)
-![Fundo](./fundo.png)
+ 
 
 ## Importar dados de planilha do Excel
 ![Fonte de dados](./dados.png)
@@ -16,22 +12,14 @@
 - Validar os formatos das colunas
 - Habilitar a exibição de mapas
 
-## Criar um painel de visualização - DashBoard
-![Dashboard](./dashboard.png)
-
 ## Atividades
 - Faça a análise dos dados contidos no arquivo **concessionaria.csv**
-- Crie um layout utilizando uma ferramenta de desenho
+- Crie um layout utilizando a sua criatividade.
 - Crie um Dashboard destes dados apresentando pelo menos três gráficos básicos
     - Gráfico de barras
     - Gráfico de linhas
     - Gráfico de pizza
 - **Desafio:** Realizando análise com cálculos DAX, crie uma coluna comissão com 3% do preço.
-- ![Objetivo do exercício](./execicio.png)
-
-## Links
-- [Kaggle](https://www.kaggle.com/) Comunidade de Aprendizagem de Máquina e Inteligência Artificial
-- [Via CEP](https://viacep.com.br/) API (Aplication Process Interface), (Interface de Processamento de Aplicações) com dados de endereços, CEPs de ruas, etc.
 
 # Conhecimentos
 ## Modelagem de Dados
