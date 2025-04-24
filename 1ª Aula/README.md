@@ -1,32 +1,14 @@
 # Aula01 - Introdução
-- Link para a aula: https://meet.google.com/wpn-xbjc-rcx
+
 ## O que é BI (Business Inteligence)?
 Business Intelligence (BI) ou em português, Inteligência de Negócios, é um termo abrangente destinado a cobrir todas as atividades necessárias para que uma empresa transforme dados brutos 
 em conhecimento acionável. Em outras palavras, são esforços da empresa para entender o que sabe e o que não sabe de sua própria existência e operações. O objetivo final é ser capaz de aumentar os 
 lucros e aprimorar sua vantagem competitiva.
 
-## Power BI
-Ferramenta de análise de Dados
-
 # Prática
 - Baixar e instalar o Power BI
 - Detalhes básicos da ferramenta, componentes da tela.
 - Importar e tratar os dados de um arquivo CSV (./pedidos.csv)
-
-## Conhecimentos
-
-### Evolução dos dados
-- Dados
-- Informação
-- Conhecimento
-- Inteligência
-
-### Exemplo
-| Dado                        | Informação        | Conhecimento                | Inteligência         |
-| --------------------------- | ----------------- | --------------------------- | -------------------- |
-| Nome, Nascimento            | Idade             | Fórmula para calcular idade | Classificação        |
-| Ana Maria Silva, 01/01/1980 | 43                | Hoje - Nascimento           | Pessoa de meia idade |
-| **Dados Brutos**            | **Tomar decisão** | **Fórmula e=mc2**           | **Chat GPT**         |
 
 ## Tipos de dados
 - Estruturados
