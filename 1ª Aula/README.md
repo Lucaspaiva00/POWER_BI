@@ -1,4 +1,4 @@
-# Aula01 - Introdução
+# Aula 01 - Conhecendo o Power BI
 
 ## O que é BI (Business Inteligence)?
 Business Intelligence (BI) ou em português, Inteligência de Negócios, é um termo abrangente destinado a cobrir todas as atividades necessárias para que uma empresa transforme dados brutos 
