@@ -1,5 +1,5 @@
 # Aula 02 - DashBoard
-Link para a aula:
+Link para a aula: https://meet.google.com/whk-cnnh-jyn
 
 - Atividades práticas, com importação de dados de diversas fontes.
 - Tratamento dos dados na importação
