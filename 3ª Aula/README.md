@@ -1,5 +1,5 @@
 # 3ª Aula
-- Link para a sala: https://meet.google.com/aua-smkk-jrp
+- Link para a sala: https://meet.google.com/qid-vdsw-gdv?pli=1
 ### Conhecimentos:
 - DAX - (Calculate e Sum)
 
