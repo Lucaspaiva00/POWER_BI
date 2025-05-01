@@ -1,5 +1,5 @@
 # 3ª Aula
-- Link para a sala: https://meet.google.com/awt-urvb-eru
+- Link para a sala: https://meet.google.com/ggf-gboc-xsy
 ### Conhecimentos:
 - DAX - (Calculate e Sum)
 
