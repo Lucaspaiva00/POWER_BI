@@ -1,5 +1,5 @@
 # 7ª Aula
-- Link da sala: https://meet.google.com/bnj-ckbm-zgv
+- Link da sala: https://meet.google.com/hyp-jkjg-fbj
 #### O arquivo da aula inclue erros ortográficos, valores inválidos, datas estranhas e outros problemas ideais para atividades de:
 
 - Limpeza de dados no Power Query
