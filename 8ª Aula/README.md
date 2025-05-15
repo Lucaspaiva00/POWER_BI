@@ -1,5 +1,5 @@
 # 8ª Aula
-- Link: https://meet.google.com/boq-rswz-yhx
+- Link: https://meet.google.com/hwg-brdt-dcv
 ### Temas
 
 - Códigos de Clientes e Setores
